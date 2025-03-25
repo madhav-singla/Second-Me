@@ -31,3 +31,4 @@ This repository demonstrates foundational Git concepts as part of an open-source
 This project is open source and available under the [MIT License](LICENSE).
 
 EOF
+Modified line in conflict-demo branch
