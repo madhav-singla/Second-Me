@@ -16,9 +16,6 @@
    - Add your own improvements or suggestions.
    - Commit your changes following best practices.
 
-4. **Push and Create a Pull Request**
-   - Push your changes to your forked repo.
-   - Submit a pull request for review and integration.
 
 ## Contribution Guidelines
 - Keep commits atomic and well-described.
