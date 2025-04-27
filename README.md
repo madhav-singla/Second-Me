@@ -1,7 +1,5 @@
 # Open Source Contribution - Git Basics Demo
 
-## Description
-This repository demonstrates foundational Git concepts as part of an open-source contribution workflow. It covers essential practices including cloning, forking, branching, committing, creating pull requests, managing .gitignore rules, editing README documentation, and resolving merge conflicts.
 
 ## Steps to Run the Project
 1. **Clone the Repository**
@@ -26,6 +24,10 @@ This repository demonstrates foundational Git concepts as part of an open-source
 - Keep commits atomic and well-described.
 - Follow naming conventions for files and branches.
 - Resolve merge conflicts before final submission.
+
+## Description
+This repository demonstrates foundational Git concepts as part of an open-source contribution workflow. It covers essential practices including cloning, forking, branching, committing, creating pull requests, managing .gitignore rules, editing README documentation, and resolving merge conflicts.
+
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
